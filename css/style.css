@@ -517,7 +517,31 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 .company-social .social-google a:hover{background: #e53935;}
 .company-social .social-vimeo a:hover{background: #71c6f3;}
 
+.skills-firstcol {
+    border-color: #009688;
+}
 
+.skills-firstcol > .panel-heading{
+    color: #fff;
+    background-color: #4DB6AC;
+}
+
+.skills-secondcol {
+    border-color: #FF9100;
+}
+
+.skills-secondcol > .panel-heading{
+    color: #fff;
+    background-color: #FFAB40;
+}
+
+.skills-thirdcol {
+    border-color: #d9534f;
+}
+.skills-thirdcol > .panel-heading{
+    color: #fff;
+    background-color: #d9534f;
+}
 
 /* ===========================
 --- Footer
